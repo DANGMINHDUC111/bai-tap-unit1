@@ -1,0 +1,20 @@
+*{}
+
+
+
+span {
+    color: red;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #0e39d8;
+}
+.bai1{
+	text-align: center;
+	width: 600px;
+	margin:auto;
+}
+h1{
+	color: red;
+}

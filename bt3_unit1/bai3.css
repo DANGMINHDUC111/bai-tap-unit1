@@ -1,0 +1,24 @@
+*{
+
+}
+
+u {
+    color: #0e39d8;
+}
+
+span#do {
+    color: red;
+    font-size: 40px;
+}
+
+span#xanh {
+    color: #43bd41;
+    font-size: 40px;
+}
+
+b {
+    color: red;
+}
+h1{
+	color: #0e39d8;
+}
